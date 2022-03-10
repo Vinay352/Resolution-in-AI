@@ -3,8 +3,8 @@
 
 Sample files are attached for reference for understanding of how to give inputs
 
-Proposition
-Constants
-Universal
-Universal + Constants
-Functions
+1) Proposition
+2) Constants
+3) Universal
+4) Universal + Constants
+5) Functions
